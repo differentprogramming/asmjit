@@ -5,7 +5,7 @@ Fork from AsmJit
 =============================
 :date: 2025-10-22
 
-I don't know that I need to frreze a version, nor whether I will want to make any changes
+I don't know that I need to freeze a version, nor whether I will want to make any changes
 but it doesn't hurt to tie these things down for a project.
 
 AsmJit
